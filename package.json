@@ -7,12 +7,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/htmlsir/webapp.git"
+    "url": "git+https://github.com/htmlsir/tpl.git"
   },
   "author": "{{author}}",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/htmlsir/webapp/issues"
-  },
-  "homepage": "https://github.com/htmlsir/webapp#readme"
+  "license": "MIT"
 }
